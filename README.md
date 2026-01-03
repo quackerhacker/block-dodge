@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Block Dodge** is a 3D obstacle-avoidance game developed in Unity. You control a player character and navigate through progressively difficult levels by dodging obstacles and reaching the end goal. The game focuses on responsive controls, clear level design, and increasing challenge.
+**Block Dodge** is a 3D obstacle-avoidance game developed in Unity. You control a player character and navigate through progressively difficult levels by dodging obstacles and reaching the end goal.
 
 ## Features
 
