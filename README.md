@@ -1,7 +1,3 @@
-Here is a more professional rewrite. Clean, direct, and suitable for GitHub or a portfolio.
-
----
-
 # Block Dodge
 
 ## Overview
