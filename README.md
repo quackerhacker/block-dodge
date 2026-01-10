@@ -1,18 +1,18 @@
-# Block Dodge
+# Dodge The Blocks
 
 ## Overview
 
-**Block Dodge** is a 3D obstacle-avoidance game developed in Unity. You control a player character and navigate through progressively difficult levels by dodging obstacles and reaching the end goal.
+**Dodge The Blocks** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
 
-Play it online here: [Block Dodge](https://peterzma.github.io/block-dodge/)
+Play it online here: [Dodge The Blocks](https://peterzma.github.io/dodge-the-blocks/)
 
 ## Features
 
-* 3D gameplay with a clean and consistent visual style
-* Progressive difficulty that tests timing and movement control
-* Simple and responsive keyboard controls
-* Multiple levels with unique obstacle layouts
-* Integrated sound effects and background music
+* 2D gameplay with simple, clear visuals
+* Increasing difficulty as falling blocks accelerate
+* Responsive keyboard controls
+* Real-time score tracking
+* Endless play for high-score challenges
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ Play it online here: [Block Dodge](https://peterzma.github.io/block-dodge/)
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/quackerhacker/block-dodge.git
+   git clone https://github.com/quackerhacker/blocc-game.git
    ```
 
 2. Open the project:
@@ -43,6 +43,6 @@ Play it online here: [Block Dodge](https://peterzma.github.io/block-dodge/)
 
 ## How to Play
 
-* Move using **WASD** or the **arrow keys**
-* Dodge obstacles by moving left, right, and jumping
-* Reach the end of the level to progress
+* Move the platform using **A/D** or **arrow keys**
+* Dodge falling blocks to survive as long as possible
+* Your score increases the longer you survive
