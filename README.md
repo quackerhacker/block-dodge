@@ -1,10 +1,10 @@
-# Dodge The Blocks
+# Blocc Dodge
 
 ## Overview
 
-**Dodge The Blocks** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
+**Blocc Dodge** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
 
-Play it online here: [Dodge The Blocks](https://peterzma.github.io/dodge-the-blocks/)
+Play it online here: [Dodge The Blocks](https://peterzma.github.io/blocc-dodge/)
 
 ## Features
 
@@ -26,7 +26,7 @@ Play it online here: [Dodge The Blocks](https://peterzma.github.io/dodge-the-blo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/quackerhacker/blocc-game.git
+   git clone https://github.com/quackerhacker/blocc-dodge.git
    ```
 
 2. Open the project:
