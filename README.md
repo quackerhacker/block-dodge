@@ -4,7 +4,7 @@
 
 **Blocc Dodge** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
 
-Play it online here: [Blocc Dodge](https://peterzma.github.io/blocc-dodge/)
+Play it online here: [Blocc Dodge](https://chuckabox.github.io/blocc-dodge/)
 
 ## Features
 
