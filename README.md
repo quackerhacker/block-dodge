@@ -28,7 +28,7 @@ Play it online here: [Blocc Dodge](https://chuckabox.github.io/blocc-dodge/)
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/peterzma/blocc-dodge.git
+   git clone https://github.com/chuckabox/blocc-dodge.git
    ```
 
 2. Open the project:
